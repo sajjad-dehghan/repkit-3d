@@ -28,29 +28,29 @@ The machines and benches at the heart of the collection.
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/03-flat-bench-press.png"><img src="Gym-Fitness-Icons/03-flat-bench-press.png" width="250" height="250" alt="Flat bench press — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/03-flat-bench-press.png"><img src="docs/previews/03-flat-bench-press.webp" width="250" height="250" alt="Flat bench press — yellow, orange and charcoal 3D icon"></a><br>
     <sub>03</sub> <b>Flat bench press</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/07-lat-pulldown.png"><img src="Gym-Fitness-Icons/07-lat-pulldown.png" width="250" height="250" alt="Lat pulldown — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/07-lat-pulldown.png"><img src="docs/previews/07-lat-pulldown.webp" width="250" height="250" alt="Lat pulldown — yellow, orange and charcoal 3D icon"></a><br>
     <sub>07</sub> <b>Lat pulldown</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/08-leg-press.png"><img src="Gym-Fitness-Icons/08-leg-press.png" width="250" height="250" alt="Leg press — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/08-leg-press.png"><img src="docs/previews/08-leg-press.webp" width="250" height="250" alt="Leg press — yellow, orange and charcoal 3D icon"></a><br>
     <sub>08</sub> <b>Leg press</b><br><br>
   </td>
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/09-smith-machine.png"><img src="Gym-Fitness-Icons/09-smith-machine.png" width="250" height="250" alt="Smith machine — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/09-smith-machine.png"><img src="docs/previews/09-smith-machine.webp" width="250" height="250" alt="Smith machine — yellow, orange and charcoal 3D icon"></a><br>
     <sub>09</sub> <b>Smith machine</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/15-incline-bench.png"><img src="Gym-Fitness-Icons/15-incline-bench.png" width="250" height="250" alt="Incline bench — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/15-incline-bench.png"><img src="docs/previews/15-incline-bench.webp" width="250" height="250" alt="Incline bench — yellow, orange and charcoal 3D icon"></a><br>
     <sub>15</sub> <b>Incline bench</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/16-seated-shoulder-press.png"><img src="Gym-Fitness-Icons/16-seated-shoulder-press.png" width="250" height="250" alt="Seated shoulder press — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/16-seated-shoulder-press.png"><img src="docs/previews/16-seated-shoulder-press.webp" width="250" height="250" alt="Seated shoulder press — yellow, orange and charcoal 3D icon"></a><br>
     <sub>16</sub> <b>Seated shoulder press</b><br><br>
   </td>
 </tr>
@@ -63,29 +63,29 @@ Free weights, medicine balls and bodyweight equipment.
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/01-dumbbell.png"><img src="Gym-Fitness-Icons/01-dumbbell.png" width="250" height="250" alt="Dumbbell — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/01-dumbbell.png"><img src="docs/previews/01-dumbbell.webp" width="250" height="250" alt="Dumbbell — yellow, orange and charcoal 3D icon"></a><br>
     <sub>01</sub> <b>Dumbbell</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/02-barbell.png"><img src="Gym-Fitness-Icons/02-barbell.png" width="250" height="250" alt="Barbell — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/02-barbell.png"><img src="docs/previews/02-barbell.webp" width="250" height="250" alt="Barbell — yellow, orange and charcoal 3D icon"></a><br>
     <sub>02</sub> <b>Barbell</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/06-kettlebell.png"><img src="Gym-Fitness-Icons/06-kettlebell.png" width="250" height="250" alt="Kettlebell — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/06-kettlebell.png"><img src="docs/previews/06-kettlebell.webp" width="250" height="250" alt="Kettlebell — yellow, orange and charcoal 3D icon"></a><br>
     <sub>06</sub> <b>Kettlebell</b><br><br>
   </td>
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/10-medicine-ball-10kg.png"><img src="Gym-Fitness-Icons/10-medicine-ball-10kg.png" width="250" height="250" alt="Medicine ball · 10 kg — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/10-medicine-ball-10kg.png"><img src="docs/previews/10-medicine-ball-10kg.webp" width="250" height="250" alt="Medicine ball · 10 kg — yellow, orange and charcoal 3D icon"></a><br>
     <sub>10</sub> <b>Medicine ball · 10 kg</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/11-medicine-ball-15kg.png"><img src="Gym-Fitness-Icons/11-medicine-ball-15kg.png" width="250" height="250" alt="Medicine ball · 15 kg — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/11-medicine-ball-15kg.png"><img src="docs/previews/11-medicine-ball-15kg.webp" width="250" height="250" alt="Medicine ball · 15 kg — yellow, orange and charcoal 3D icon"></a><br>
     <sub>11</sub> <b>Medicine ball · 15 kg</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/14-pullup-dip-station.png"><img src="Gym-Fitness-Icons/14-pullup-dip-station.png" width="250" height="250" alt="Pull-up &amp; dip station — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/14-pullup-dip-station.png"><img src="docs/previews/14-pullup-dip-station.webp" width="250" height="250" alt="Pull-up &amp; dip station — yellow, orange and charcoal 3D icon"></a><br>
     <sub>14</sub> <b>Pull-up &amp; dip station</b><br><br>
   </td>
 </tr>
@@ -98,29 +98,29 @@ Cardio, tracking and the essentials around your workout.
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/04-punching-bag.png"><img src="Gym-Fitness-Icons/04-punching-bag.png" width="250" height="250" alt="Punching bag — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/04-punching-bag.png"><img src="docs/previews/04-punching-bag.webp" width="250" height="250" alt="Punching bag — yellow, orange and charcoal 3D icon"></a><br>
     <sub>04</sub> <b>Punching bag</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/05-fitness-watch.png"><img src="Gym-Fitness-Icons/05-fitness-watch.png" width="250" height="250" alt="Fitness watch — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/05-fitness-watch.png"><img src="docs/previews/05-fitness-watch.webp" width="250" height="250" alt="Fitness watch — yellow, orange and charcoal 3D icon"></a><br>
     <sub>05</sub> <b>Fitness watch</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/12-exercise-mat.png"><img src="Gym-Fitness-Icons/12-exercise-mat.png" width="250" height="250" alt="Exercise mat — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/12-exercise-mat.png"><img src="docs/previews/12-exercise-mat.webp" width="250" height="250" alt="Exercise mat — yellow, orange and charcoal 3D icon"></a><br>
     <sub>12</sub> <b>Exercise mat</b><br><br>
   </td>
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/13-jump-rope.png"><img src="Gym-Fitness-Icons/13-jump-rope.png" width="250" height="250" alt="Jump rope — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/13-jump-rope.png"><img src="docs/previews/13-jump-rope.webp" width="250" height="250" alt="Jump rope — yellow, orange and charcoal 3D icon"></a><br>
     <sub>13</sub> <b>Jump rope</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/17-exercise-bike.png"><img src="Gym-Fitness-Icons/17-exercise-bike.png" width="250" height="250" alt="Exercise bike — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/17-exercise-bike.png"><img src="docs/previews/17-exercise-bike.webp" width="250" height="250" alt="Exercise bike — yellow, orange and charcoal 3D icon"></a><br>
     <sub>17</sub> <b>Exercise bike</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/18-treadmill.png"><img src="Gym-Fitness-Icons/18-treadmill.png" width="250" height="250" alt="Treadmill — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/18-treadmill.png"><img src="docs/previews/18-treadmill.webp" width="250" height="250" alt="Treadmill — yellow, orange and charcoal 3D icon"></a><br>
     <sub>18</sub> <b>Treadmill</b><br><br>
   </td>
 </tr>
@@ -133,15 +133,15 @@ Hydration, a post-workout bowl and a way to find your gym.
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/19-sports-bottle.png"><img src="Gym-Fitness-Icons/19-sports-bottle.png" width="250" height="250" alt="Sports bottle — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/19-sports-bottle.png"><img src="docs/previews/19-sports-bottle.webp" width="250" height="250" alt="Sports bottle — yellow, orange and charcoal 3D icon"></a><br>
     <sub>19</sub> <b>Sports bottle</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/20-ramen-bowl.png"><img src="Gym-Fitness-Icons/20-ramen-bowl.png" width="250" height="250" alt="Ramen bowl — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/20-ramen-bowl.png"><img src="docs/previews/20-ramen-bowl.webp" width="250" height="250" alt="Ramen bowl — yellow, orange and charcoal 3D icon"></a><br>
     <sub>20</sub> <b>Ramen bowl</b><br><br>
   </td>
   <td align="center" width="33%">
-    <a href="Gym-Fitness-Icons/21-map-location.png"><img src="Gym-Fitness-Icons/21-map-location.png" width="250" height="250" alt="Map &amp; location — yellow, orange and charcoal 3D icon"></a><br>
+    <a href="Gym-Fitness-Icons/21-map-location.png"><img src="docs/previews/21-map-location.webp" width="250" height="250" alt="Map &amp; location — yellow, orange and charcoal 3D icon"></a><br>
     <sub>21</sub> <b>Map &amp; location</b><br><br>
   </td>
 </tr>
